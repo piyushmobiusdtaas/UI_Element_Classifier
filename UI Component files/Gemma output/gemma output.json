@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "type": "text",
+    "content": "Username",
+    "class": "label"
+  },
+  {
+    "id": 1,
+    "type": "text",
+    "content": "Email",
+    "class": "label"
+  },
+  {
+    "id": 2,
+    "type": "text",
+    "content": "Personal ID Number",
+    "class": "label"
+  },
+  {
+    "id": 3,
+    "type": "text",
+    "content": "Value",
+    "class": "text box"
+  },
+  {
+    "id": 4,
+    "type": "text",
+    "content": "Male",
+    "class": "radio button"
+  },
+  {
+    "id": 5,
+    "type": "text",
+    "content": "Write Anything",
+    "class": "label"
+  },
+  {
+    "id": 6,
+    "type": "text",
+    "content": "Select an option below.",
+    "class": "label"
+  },
+  {
+    "id": 7,
+    "type": "text",
+    "content": "Choose a Date",
+    "class": "label"
+  },
+  {
+    "id": 8,
+    "type": "text",
+    "content": "Select date",
+    "class": "text box"
+  },
+  {
+    "id": 9,
+    "type": "text",
+    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly",
+    "class": "paragraph"
+  },
+  {
+    "id": 10,
+    "type": "text",
+    "content": "used to demonstrate the visual form of a document or a typeface without",
+    "class": "paragraph"
+  },
+  {
+    "id": 11,
+    "type": "text",
+    "content": "relying on meaningful content..",
+    "class": "paragraph"
+  },
+  {
+    "id": 12,
+    "type": "icon",
+    "content": "Verify",
+    "class": "button"
+  },
+  {
+    "id": 13,
+    "type": "icon",
+    "content": "Enter phone number",
+    "class": "text box"
+  },
+  {
+    "id": 14,
+    "type": "icon",
+    "content": "Enter email or username",
+    "class": "text box"
+  },
+  {
+    "id": 15,
+    "type": "icon",
+    "content": "Select Options",
+    "class": "dropdown"
+  },
+  {
+    "id": 16,
+    "type": "icon",
+    "content": "Submit",
+    "class": "button"
+  },
+  {
+    "id": 17,
+    "type": "icon",
+    "content": "Value",
+    "class": "text box"
+  },
+  {
+    "id": 18,
+    "type": "icon",
+    "content": "Enter your text here",
+    "class": "multiline text box"
+  },
+  {
+    "id": 19,
+    "type": "icon",
+    "content": "Female",
+    "class": "radio button"
+  },
+  {
+    "id": 20,
+    "type": "icon",
+    "content": "a speaker or audio button.",
+    "class": "toggle"
+  },
+  {
+    "id": 21,
+    "type": "icon",
+    "content": "verification",
+    "class": "icon"
+  },
+  {
+    "id": 22,
+    "type": "icon",
+    "content": "Calendar",
+    "class": "calendar icon"
+  },
+  {
+    "id": 23,
+    "type": "icon",
+    "content": "Maximize",
+    "class": "icon"
+  }
+]

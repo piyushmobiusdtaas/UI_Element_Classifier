@@ -1,0 +1,290 @@
+[
+  {
+    "icon": 0,
+    "type": "text",
+    "bbox": [
+      0.19298245012760162,
+      0.125,
+      0.27302631735801697,
+      0.13942307233810425
+    ],
+    "interactivity": false,
+    "content": "Username"
+  },
+  {
+    "icon": 1,
+    "type": "text",
+    "bbox": [
+      0.19188596308231354,
+      0.2059294879436493,
+      0.23903508484363556,
+      0.22195513546466827
+    ],
+    "interactivity": false,
+    "content": "Email"
+  },
+  {
+    "icon": 2,
+    "type": "text",
+    "bbox": [
+      0.19298245012760162,
+      0.3701923191547394,
+      0.34429824352264404,
+      0.38461539149284363
+    ],
+    "interactivity": false,
+    "content": "Personal ID Number"
+  },
+  {
+    "icon": 3,
+    "type": "text",
+    "bbox": [
+      0.21271929144859314,
+      0.40224358439445496,
+      0.26096490025520325,
+      0.41746795177459717
+    ],
+    "interactivity": false,
+    "content": "Value"
+  },
+  {
+    "icon": 4,
+    "type": "text",
+    "bbox": [
+      0.23464912176132202,
+      0.45512819290161133,
+      0.2785087823867798,
+      0.46955129504203796
+    ],
+    "interactivity": false,
+    "content": "Male"
+  },
+  {
+    "icon": 5,
+    "type": "text",
+    "bbox": [
+      0.19078947603702545,
+      0.4943910241127014,
+      0.3037280738353729,
+      0.5128205418586731
+    ],
+    "interactivity": false,
+    "content": "Write Anything"
+  },
+  {
+    "icon": 6,
+    "type": "text",
+    "bbox": [
+      0.19298245012760162,
+      0.5793269276618958,
+      0.359649121761322,
+      0.5929487347602844
+    ],
+    "interactivity": false,
+    "content": "Select an option below."
+  },
+  {
+    "icon": 7,
+    "type": "text",
+    "bbox": [
+      0.19298245012760162,
+      0.6602563858032227,
+      0.30153509974479675,
+      0.6746794581413269
+    ],
+    "interactivity": false,
+    "content": "Choose a Date"
+  },
+  {
+    "icon": 8,
+    "type": "text",
+    "bbox": [
+      0.2149122804403305,
+      0.692307710647583,
+      0.2993420958518982,
+      0.7075320482254028
+    ],
+    "interactivity": false,
+    "content": "Select date"
+  },
+  {
+    "icon": 9,
+    "type": "text",
+    "bbox": [
+      0.2357456088066101,
+      0.7395833134651184,
+      0.8026315569877625,
+      0.7540063858032227
+    ],
+    "interactivity": false,
+    "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly"
+  },
+  {
+    "icon": 10,
+    "type": "text",
+    "bbox": [
+      0.2357456088066101,
+      0.7540063858032227,
+      0.765350878238678,
+      0.7676281929016113
+    ],
+    "interactivity": false,
+    "content": "used to demonstrate the visual form of a document or a typeface without"
+  },
+  {
+    "icon": 11,
+    "type": "text",
+    "bbox": [
+      0.2357456088066101,
+      0.7676281929016113,
+      0.4572368562221527,
+      0.7820512652397156
+    ],
+    "interactivity": false,
+    "content": "relying on meaningful content.."
+  },
+  {
+    "icon": 12,
+    "type": "icon",
+    "bbox": [
+      0.6952160596847534,
+      0.30643272399902344,
+      0.8090171217918396,
+      0.3494383692741394
+    ],
+    "interactivity": true,
+    "content": "Verify "
+  },
+  {
+    "icon": 13,
+    "type": "icon",
+    "bbox": [
+      0.18930409848690033,
+      0.3063901364803314,
+      0.6902831196784973,
+      0.3500133156776428
+    ],
+    "interactivity": true,
+    "content": "Enter phone number "
+  },
+  {
+    "icon": 14,
+    "type": "icon",
+    "bbox": [
+      0.18786294758319855,
+      0.14414478838443756,
+      0.8100869059562683,
+      0.186067596077919
+    ],
+    "interactivity": true,
+    "content": "Enter email or username "
+  },
+  {
+    "icon": 15,
+    "type": "icon",
+    "bbox": [
+      0.18708868324756622,
+      0.597011387348175,
+      0.8102265000343323,
+      0.641372799873352
+    ],
+    "interactivity": true,
+    "content": "Select Options "
+  },
+  {
+    "icon": 16,
+    "type": "icon",
+    "bbox": [
+      0.1922139823436737,
+      0.8278848528862,
+      0.8116302490234375,
+      0.8704347014427185
+    ],
+    "interactivity": true,
+    "content": "Submit "
+  },
+  {
+    "icon": 17,
+    "type": "icon",
+    "bbox": [
+      0.1880870908498764,
+      0.22489555180072784,
+      0.8089455962181091,
+      0.26872044801712036
+    ],
+    "interactivity": true,
+    "content": "Value "
+  },
+  {
+    "icon": 18,
+    "type": "icon",
+    "bbox": [
+      0.18715150654315948,
+      0.516374409198761,
+      0.811161458492279,
+      0.5594762563705444
+    ],
+    "interactivity": true,
+    "content": "Enter your text here "
+  },
+  {
+    "icon": 19,
+    "type": "icon",
+    "bbox": [
+      0.45731019973754883,
+      0.44839218258857727,
+      0.5754132270812988,
+      0.4769837260246277
+    ],
+    "interactivity": true,
+    "content": "Female "
+  },
+  {
+    "icon": 20,
+    "type": "icon",
+    "bbox": [
+      0.7468775510787964,
+      0.4506821632385254,
+      0.8073533177375793,
+      0.47417861223220825
+    ],
+    "interactivity": true,
+    "content": "a speaker or audio button."
+  },
+  {
+    "icon": 21,
+    "type": "icon",
+    "bbox": [
+      0.7567297220230103,
+      0.3989697992801666,
+      0.7853706479072571,
+      0.42160776257514954
+    ],
+    "interactivity": true,
+    "content": "verification"
+  },
+  {
+    "icon": 22,
+    "type": "icon",
+    "bbox": [
+      0.7556891441345215,
+      0.6867898106575012,
+      0.7871411442756653,
+      0.7122094035148621
+    ],
+    "interactivity": true,
+    "content": "Calendar"
+  },
+  {
+    "icon": 23,
+    "type": "icon",
+    "bbox": [
+      0.1904112696647644,
+      0.7479408383369446,
+      0.2241205871105194,
+      0.7721481323242188
+    ],
+    "interactivity": true,
+    "content": "Maximize"
+  }
+]
